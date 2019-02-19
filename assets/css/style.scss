@@ -87,8 +87,8 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
-  font-weight: bold;
+  color: #069;
+  text-shadow: 0.12px 0 0 currentColor;
 }
 
 a small {
