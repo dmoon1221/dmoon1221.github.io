@@ -6,7 +6,7 @@ layout: default
 ---
 #### About
 
-I am a first-year PhD student interested in programming languages and human-computer interaction. I work on the [Hazel](http://hazel.org/) project with [Cyrus Omar](https://people.cs.uchicago.edu/~comar/) and [Ben Shapiro](http://benshapi.ro/).
+I am a first-year PhD student interested in programming languages and human-computer interaction. I work on the [Hazel](http://hazel.org/) project with [Cyrus Omar](https://people.cs.uchicago.edu/~comar/) and [Ben Shapiro](http://benshapi.ro/) at the University of Colorado Boulder.
 
 I received my bachelor's degree from Williams College in 2016. As an undergrad, I worked on a variety of topics, ranging from [additive combinatorics](https://www.sciencedirect.com/science/article/pii/S0022314X1500181X) to [topological data analysis](assets/docs/nzp.pdf) to [dynamic race detection](assets/docs/poster.pdf). My [thesis](assets/docs/thesis.pdf) was advised by [Stephen Freund](http://www.cs.williams.edu/~freund/index.html).
 
