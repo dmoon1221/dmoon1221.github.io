@@ -17,9 +17,8 @@ title: David Moon
 name: David Moon
 email: dmoon1221@gmail.com
 position: PhD student
-place: CU Boulder
-baseurl: /dmoon # the subpath of your site, e.g. /blog
-url: https://plv.colorado.edu # the base hostname & protocol for your site, e.g. http://example.com
+place: UMich
+url: https://dmoon1221.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dmoon1221
 github_username:  dmoon1221
 google_analytics: UA-127130253-1
