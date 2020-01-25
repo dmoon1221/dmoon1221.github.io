@@ -15,4 +15,4 @@ As an undergrad, I worked on a variety of topics, ranging from [additive combina
 My [thesis](assets/docs/thesis.pdf) was advised by [Stephen Freund](http://www.cs.williams.edu/~freund/index.html).
 
 Before coming to Boulder, I lived in New York City.
-There, I attended the [Recurse Center](https://www.recurse.com/), worked as a software engineer at [Addepar](https://addepar.com/), co-taught an elective course on web development at the City College of New York, and sang with [Choral Chameleon](http://www.choralchameleon.com/).
+There, I attended the [Recurse Center](https://www.recurse.com/), worked as a software engineer at [Addepar](https://addepar.com/), and sang with [Choral Chameleon](http://www.choralchameleon.com/).
