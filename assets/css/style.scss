@@ -69,6 +69,7 @@ header p {
 
 #face {
   width: $header-width;
+  clip-path: circle(62.5px at center);
 }
 
 #info {
