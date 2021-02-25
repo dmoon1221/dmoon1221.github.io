@@ -14,5 +14,4 @@ I received my bachelor's degree from Williams College in 2016.
 As an undergrad, I worked on a variety of topics, ranging from [additive combinatorics](https://www.sciencedirect.com/science/article/pii/S0022314X1500181X) to [topological data analysis](assets/docs/nzp.pdf) to [dynamic race detection](assets/docs/poster.pdf).
 My [thesis](assets/docs/thesis.pdf) was advised by [Stephen Freund](http://www.cs.williams.edu/~freund/index.html).
 
-Before coming to Boulder, I lived in New York City.
-There, I attended the [Recurse Center](https://www.recurse.com/), worked as a software engineer at [Addepar](https://addepar.com/), and sang with [Choral Chameleon](http://www.choralchameleon.com/).
+Before grad school, I attended the [Recurse Center](https://www.recurse.com/), worked as a software engineer at [Addepar](https://addepar.com/), and sang with [Choral Chameleon](http://www.choralchameleon.com/).
