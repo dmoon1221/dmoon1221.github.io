@@ -24,7 +24,10 @@
        url('../fonts/lato/lato-bold-webfont.ttf') format('truetype');
 }
 
-$header-width: 125px;
+:root {
+  --header-width: 120px;
+  --face-radius: calc(var(--header-width) / 2);
+}
 
 body {
   background-color: #fff;
@@ -68,18 +71,21 @@ header p {
 }
 
 #face {
-  width: $header-width;
-  clip-path: circle(62.5px at center);
+  width: var(--header-width);
+  clip-path: circle(var(--face-radius) at center);
 }
 
 #info {
-  width: $header-width;
+  width: var(--header-width);
+  text-align: right;
+  font-size: 9.5pt;
 }
 
 #name {
   font-weight: bold;
-  font-size: 16.5pt;
+  font-size: 16pt;
   -webkit-font-smoothing: antialiased;
+  line-height: 1.4;
 }
 
 a {
@@ -153,7 +159,7 @@ img {
 }
 
 header {
-  width:$header-width;
+  width:var(--header-width);
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -168,6 +174,7 @@ section {
   width:400px;
   float:right;
   padding-bottom:50px;
+  font-size: 11pt;
 }
 
 small {
@@ -182,7 +189,7 @@ hr {
 }
 
 footer {
-  width:$header-width;
+  width:var(--header-width);
   float:left;
   position:fixed;
   bottom:50px;
@@ -194,6 +201,10 @@ footer {
   div.wrapper {
     width:auto;
     margin:0;
+  }
+
+  #info {
+    text-align: left;
   }
 
   header, section, footer {
@@ -244,6 +255,10 @@ footer {
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
+  }
+
+  #info {
+    text-align: left;
   }
 
   .downloads {
